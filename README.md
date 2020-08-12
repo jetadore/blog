@@ -1,7 +1,11 @@
-# The Template Of Markdown File For HtmlOS Blog
+# My Personal Blog Source File
 
-> This station is under construction.
-> Stay tuned.
+> This station is under construction. </br>
+> Powered by [HtmlOS-Blog](https://github.com/HtmlOS/HtmlOS), Stay tuned.
+
+---
+
+## The Template Of Markdown File For HtmlOS Blog
 
 ```markdown
 <!-- title: -->
@@ -22,6 +26,6 @@
 <!-- more -->
 
 
-![alt](http://localhost/blog/images/cover.png)
+![alt](http://host.domain/blog/images/cover.png)
 
 ```
