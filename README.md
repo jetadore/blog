@@ -1,19 +1,27 @@
+# The Template Of Markdown File For HtmlOS Blog
+
+> This station is under construction.
+> Stay tuned.
+
+```markdown
 <!-- title: -->
-<!-- created:  -->
-<!-- updated:  -->
-<!-- categories:  template, readme -->
-<!-- tags:  readme, template-->
+<!-- created: -->
+<!-- updated: -->
+<!-- categories: template, readme -->
+<!-- tags: readme, template -->
 
 # Title
 
-> Summary
-> Summary
-> Summary
+> Summary1
+> Summary2
+> Summary3
 
 ![alt](/favicon.ico)
-![alt](./no.exsits.png)
+![alt](./not.exsit.png)
 
 <!-- more -->
 
 
 ![alt](http://localhost/blog/images/cover.png)
+
+```
