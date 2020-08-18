@@ -25,6 +25,12 @@
 
 <!-- more -->
 
+<!-- iframe 
+<iframe
+    ...
+</iframe>
+ -->
+
 
 ![alt](http://host.domain/blog/images/cover.png)
 
