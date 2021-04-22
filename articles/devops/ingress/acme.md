@@ -6,7 +6,7 @@
 
 # HTTPS 之 ACME
 
-![](2020.08.12-acme-https.jpg)
+![](acme-https.jpg)
 
 > acme.sh 是一个 ACME(自动化证书管理环境) 脚本，可以从 letsencrypt 生成免费的证书
 

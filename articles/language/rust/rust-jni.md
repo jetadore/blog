@@ -5,7 +5,7 @@
 # Rust 之 JNI
 
 
-![](2020.08.12-jni-struct.drawio.svg)
+![](rust-jni-struct.drawio.svg)
 
 > 本文介绍了如何用 Rust 实现一个 JNI 动态库 </br>
 > 本文采用动态注册方式 </br>
