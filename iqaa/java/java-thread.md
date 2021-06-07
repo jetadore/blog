@@ -3,7 +3,7 @@
 
 - 线程池
 
-    -  Executors.newCahcedThreadPool()
+    -  Executors.newCachedThreadPool()
     -  Executors.newFixedThreadPool()
     -  Executors.newSingleThreadExecutor()
     -  Executors.newScheduledThreadPool()
